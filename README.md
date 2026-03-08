@@ -48,49 +48,7 @@ Once logged in, users can:
 ### Database
 - MongoDB
 
-### Firebase
-- Google Authentication
-- Image Uploading
 
----
-
-## Screenshots
-
-### Sign Up
-![signup](https://i.postimg.cc/Gtt1X9qz/Sign-Up.png)
-
-### Sign In
-![Sign in](https://i.postimg.cc/LXqcPGX0/Log-in.png)
-
-### Dashboard
-![Dashboard](https://i.postimg.cc/J4Bh8d5x/Home.png)
-
-### About Page
-![About](https://i.postimg.cc/kX9nrXDJ/About.png)
-
-### Profile Page
-![Profile](https://i.postimg.cc/DwT5dHCY/Profile.png)
-
-### Create Listing
-![Listing a](https://i.postimg.cc/9FWrdBdY/Create-Listing-a.png)
-![Listing b](https://i.postimg.cc/xjk3MnPP/Create-Listing-b.png)
-
-### Update Listing
-![Update Listing](https://i.postimg.cc/KYDx06rq/Update-Listing.png)
-
-### Listings Page
-![Listing Lists](https://i.postimg.cc/cCnDm8VQ/Listing-Lists.png)
-
-### Listing Details
-![Listing View](https://i.postimg.cc/Z0kJ7p0Z/Listing-View.png)
-
-### Filters
-![Filter 1](https://i.postimg.cc/sDFkQVhk/Filter-1.png)
-![Filter 2](https://i.postimg.cc/bvJnxfnP/Filter-2.png)
-![Filter 3](https://i.postimg.cc/XJ6VVw4P/Filter-3.png)
-![Filter 4](https://i.postimg.cc/cHxbMHmH/Filter-4.png)
-
----
 
 ## Environment Variables
 
